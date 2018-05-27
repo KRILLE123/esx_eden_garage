@@ -45,3 +45,12 @@ To retrieve a Vehicle from the Pound:
 # Credits/Original Code
 * snyx95 => https://github.com/snyx95
   * esx_eden_garage => https://github.com/snyx95/esx_eden_garage
+
+# Other
+If you like this please check out some of my other stuff like
+* esx_aircraftshop => https://github.com/HumanTree92/esx_aircraftshop
+* esx_boatshop => https://github.com/HumanTree92/esx_boatshop
+* esx_eden_aircraftgarage => https://github.com/HumanTree92/esx_eden_aircraftgarage
+* esx_eden_boatgarage => https://github.com/HumanTree92/esx_eden_boatgarage
+* esx_eden_garage => https://github.com/HumanTree92/esx_eden_garage
+* esx_panicbutton => https://github.com/HumanTree92/esx_panicbutton
