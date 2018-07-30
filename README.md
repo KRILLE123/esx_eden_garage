@@ -22,9 +22,10 @@ This Garage Script only takes into account the Vehicles Purchased in the Car Sho
 start esx_eden_garage
 ```
 
-# KNOWN BUG:
+# KNOWN BUGS:
 
 - It is Possible to Duplicate Vehicles but do note that if said Person Duplicates a Vehicle & takes 1 of them & sell thems the other one is useless & can NOT be stored or sold.
+- esx_vehicleshops new update for the plate system has broken a few things. Currently working is the ability to pull out vehicles & pull vehicles from the impound. WIP is the ability to store the vehicles back into the Garage.
 
 # How to use my version
 To store the Vehicle in the Garage:
