@@ -23,19 +23,19 @@ Works with the New Plate System & New Update allows use of Property Garages
 
 # How to use my version
 * To store the Vehicle in the Garage:
- * Pull into the red dot
- * Open the menu
- * Select Return Vehicle
+  * Pull into the red dot
+  * Open the menu
+  * Select Return Vehicle
 
 * To take a Vehicle back out:
- * Walk into the green dot
- * Open the menu
- * Select View Vehicle List
+  * Walk into the green dot
+  * Open the menu
+  * Select View Vehicle List
 
 * To retrieve a Vehicle from the Pound:
- * Walk into the blue dot
- * Open the menu
- * Select the Vehicle from the list
+  * Walk into the blue dot
+  * Open the menu
+  * Select the Vehicle from the list
 
 # Credits/Original Code
 * [snyx95](https://github.com/snyx95)
