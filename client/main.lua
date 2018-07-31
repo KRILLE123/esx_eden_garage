@@ -184,10 +184,8 @@ function ListVehiclesMenu()
 
     		if(v.state)then
     		labelvehicle = vehicleName.. ' (' .. plate .. ') ' .._U('garage')
-			--labelvehicle = vehicleName..': '.._U('garage')
     		else
     		labelvehicle = vehicleName.. ' (' .. plate .. ') ' .._U('municipal_pound')
-			--labelvehicle = vehicleName..': '.._U('municipal_pound')
     		end	
 			table.insert(elements, {label =labelvehicle , value = v})
 			
