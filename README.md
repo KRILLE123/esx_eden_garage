@@ -10,15 +10,14 @@ Works with the New Plate System & New Update allows use of Property Garages
 # Requirement:
 
 * Vehicle Shop
-  * esx_vehicleshop => https://github.com/ESX-Org/esx_vehicleshop
+  * [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 
 # Installation
 
 1) CD in your resources/[esx] folder
 2) Clone the repository
-3) Import eden_garage.sql in your database
-
-4) Add this in your server.cfg :
+3) Import `eden_garage.sql` in your database
+4) Add this in your `server.cfg`:
 
 ```
 start esx_eden_garage
@@ -45,14 +44,15 @@ To retrieve a Vehicle from the Pound:
 - Select the Vehicle from the list
 
 # Credits/Original Code
-* snyx95 => https://github.com/snyx95
-  * esx_eden_garage => https://github.com/snyx95/esx_eden_garage
+* [snyx95](https://github.com/snyx95)
+  * [esx_eden_garage](https://github.com/snyx95/esx_eden_garage)
 
 # Other
 If you like this please check out some of my other stuff like
-* esx_aircraftshop => https://github.com/HumanTree92/esx_aircraftshop
-* esx_boatshop => https://github.com/HumanTree92/esx_boatshop
-* esx_eden_aircraftgarage => https://github.com/HumanTree92/esx_eden_aircraftgarage
-* esx_eden_boatgarage => https://github.com/HumanTree92/esx_eden_boatgarage
-* esx_eden_garage => https://github.com/HumanTree92/esx_eden_garage
-* esx_panicbutton => https://github.com/HumanTree92/esx_panicbutton
+* [esx_aircraftshop](https://github.com/HumanTree92/esx_aircraftshop)
+* [esx_boatshop](https://github.com/HumanTree92/esx_boatshop)
+* [esx_eden_aircraftgarage](https://github.com/HumanTree92/esx_eden_aircraftgarage)
+* [esx_eden_boatgarage](https://github.com/HumanTree92/esx_eden_boatgarage)
+* [esx_eden_garage](https://github.com/HumanTree92/esx_eden_garage)
+* [esx_panicbutton](https://github.com/HumanTree92/esx_panicbutton)
+* [FiveM_CustomMapAddons](https://github.com/HumanTree92/FiveM_CustomMapAddons)
