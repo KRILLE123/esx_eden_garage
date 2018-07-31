@@ -15,7 +15,7 @@ Works with the New Plate System & New Update allows use of Property Garages
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Import `eden_garage.sql` in your database
-4) Place `esx_panicbutton` in your ESX Directory
+4) Place `esx_eden_garage` in your ESX Directory
 5) Add `start esx_eden_garage` to your server.cfg
 
 # KNOWN BUGS:
