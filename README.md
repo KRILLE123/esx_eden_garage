@@ -5,7 +5,7 @@ I did NOT create the Code. I only edited the code to create this.
 
 This Garage Script only takes into account the Vehicles Purchased in the Car Shop. Players can also go to the Car Pound to retrieve their Vehicle if its lost or Destroyed for a Fee. During a reboot all Vehicles go back home. 
 
-New Update allows use of Property Garages
+Works with the New Plate System & New Update allows use of Property Garages
 
 # Requirement:
 
