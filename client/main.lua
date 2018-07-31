@@ -385,7 +385,7 @@ function ReturnVehicleMenu()
 
 		for _,v in pairs(vehicles) do
 
-			local hashVehicule = v.model
+		local hashVehicule = v.model
     		local vehicleName = GetDisplayNameFromVehicleModel(hashVehicule)
     		local labelvehicle
 
