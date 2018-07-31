@@ -8,40 +8,34 @@ This Garage Script only takes into account the Vehicles Purchased in the Car Sho
 Works with the New Plate System & New Update allows use of Property Garages
 
 # Requirement:
-
 * Vehicle Shop
   * [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 
-# Installation
-
-1) CD in your resources/[esx] folder
-2) Clone the repository
+# Download & Installation
+1) Download the .zip.
+2) Extract the .zip or Open the .zip.
 3) Import `eden_garage.sql` in your database
-4) Add this in your `server.cfg`:
-
-```
-start esx_eden_garage
-```
+4) Place `esx_panicbutton` in your ESX Directory
+5) Add `start esx_eden_garage` to your server.cfg
 
 # KNOWN BUGS:
-
-- It is Possible to Duplicate Vehicles but do note that if said Person Duplicates a Vehicle & takes 1 of them & sell thems the other one is useless & can NOT be stored or sold.
+* It is Possible to Duplicate Vehicles but do note that if said Person Duplicates a Vehicle & takes 1 of them & sell thems the other one is useless & can NOT be stored or sold.
 
 # How to use my version
-To store the Vehicle in the Garage:
-- Pull into the red dot
-- Open the menu
-- Select Return Vehicle
+* To store the Vehicle in the Garage:
+ * Pull into the red dot
+ * Open the menu
+ * Select Return Vehicle
 
-To take a Vehicle back out:
-- Walk into the green dot
-- Open the menu
-- Select View Vehicle List
+* To take a Vehicle back out:
+ * Walk into the green dot
+ * Open the menu
+ * Select View Vehicle List
 
-To retrieve a Vehicle from the Pound:
-- Walk into the blue dot
-- Open the menu
-- Select the Vehicle from the list
+* To retrieve a Vehicle from the Pound:
+ * Walk into the blue dot
+ * Open the menu
+ * Select the Vehicle from the list
 
 # Credits/Original Code
 * [snyx95](https://github.com/snyx95)
