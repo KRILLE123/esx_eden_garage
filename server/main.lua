@@ -70,7 +70,7 @@ ESX.RegisterServerCallback('eden_garage:getOwnedProperties',function(source, cb)
 	local xPlayer = ESX.GetPlayerFromId(_source)
 	local properties = {}
 
-	MySQL.Async.fetchAll("SET @ownedProperties = (SELECT name FROM owned_properties WHERE owner=@identifier);SET @gateways = (SELECT gateway FROM properties WHERE name = @ownedProperties AND gateway IS NOT NULL);SELECT name FROM properties WHERE name = @ownedProperties AND gateway = @gateways OR name = @gateways AND gateway IS NULL OR name = @ownedProperties AND gateway IS NULL;",{['@identifier'] = xPlayer.getIdentifier()}, function(data) 
+	MySQL.Async.fetchAll("SELECT * FROM owned_properties WHERE owner=@identifier",{['@identifier'] = xPlayer.getIdentifier()}, function(data)
 		for _,v in pairs(data) do
 			table.insert(properties, v.name)
 		end
